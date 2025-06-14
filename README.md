@@ -30,6 +30,10 @@
 
   <h2>Autor</h2>
   <p>Ayla <a href="mailto:ayla.marilia14@aluno.ifce.edu.br">ayla.marilia14@aluno.ifce.edu.br</a></p>
+   <p>Vanessa <a href="mailto:vanessa.virginio09@aluno.ifce.edu.br">vanessa.virginio09@aluno.ifce.edu.br</a></p>
+    <p>Giovana <a href="mailto:giovana.carvalho10@aluno.ifce.edu.br">giovana.carvalho10@aluno.ifce.edu.b</a></p>
+</body>
+</body>
 </body>
 </html>
 
